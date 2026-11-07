@@ -3,7 +3,7 @@ export const SITE_TITLE = `${SITE_NAME} | Full-Stack Web Developer Portfolio`;
 export const SITE_DESCRIPTION =
   "Favour E. Alozie is a full-stack web developer building user-friendly web apps, APIs, and scalable digital systems.";
 export const SITE_URL =
-  process.env.NEXT_PUBLIC_SITE_URL ?? "https://example.com";
+  process.env.NEXT_PUBLIC_SITE_URL ?? "https://ebube-js.vercel.app";
 
 export const CONTACT_EMAIL = "favealozie@gmail.com";
 export const PHONE_NUMBER = "+234 815 562 8284";
